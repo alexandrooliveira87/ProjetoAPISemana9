@@ -13,7 +13,10 @@ Este é um projeto desenvolvido em TypeScript, estruturado para lidar com autent
 - JSON Web Token (JWT)
 
 ** Estrutura do Projeto
+
 ![alt text](image.png)
+
+
 
 * Diretórios e Arquivos Principais:
 - classes/: Contém classes auxiliares para manipulação de JWT e login.
